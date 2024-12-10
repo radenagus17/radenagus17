@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on PT. Gapura Dunia Informatika<br>🌱 I’m currently learning Next.js<br>💬 Ask me about Tech Teck<br>⚡ Fun fact
+🔭 I’m currently working on PT. OS Selnajaya Indonesia<br>🌱 I’m currently learning Next.js<br>💬 Ask me about Tech Teck<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
