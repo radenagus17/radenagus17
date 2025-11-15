@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on PT. OS Selnajaya Indonesia<br>🌱 I’m currently learning Next.js<br>💬 Ask me about Tech Stack<br>⚡ Fun fact
+🔭 I’m currently working on PT. BREXA Raya Indonesia<br>🌱 I’m currently learning Next.js<br>💬 Ask me about Tech Stack<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
